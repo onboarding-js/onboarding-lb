@@ -1,0 +1,16 @@
+.profile {
+    padding: 20px;
+    line-height: 30px;
+}
+
+.user-avatar {
+    width: 280px;
+    height: 280px;
+    border-radius: 2px;
+    box-shadow: 0 0 4px NaNpx var(--black-40);
+    margin-left: 45px
+  }
+
+  
+
+  
